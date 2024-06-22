@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @slavaww
-- 👀 I’m interested in creating web sites
-- 🌱 I’m currently learning Laravel, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Viacheslav
+- 👀 I’m interested in creating websites (use of CMS such as WordPress, Joomla, etc.), programming backend and frontend, supporting and organizing the work of web servers.
+- 🌱 I’m currently learning how to develop further and what to do next :-)
+<!-- - 💞️ I’m looking to collaborate on ... -->
+- 📫 How to reach me: admin@webexit.ru
 
 <!---
 slavaww/slavaww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
